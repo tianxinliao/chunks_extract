@@ -47,7 +47,7 @@ python chunk_label_03.py
 
 - 结果表示形式
 
-![](https://github.com/tianxinliao/chunks_extract/img/result_1.png)
+![](https://raw.githubusercontent.com/tianxinliao/chunks_extract/master/img/result_1.png)
 
 ****
 
@@ -56,8 +56,8 @@ python chunk_label_03.py
 python result_extract_label_04.py
 ```
 
-![](.\img\result_3.png)
+![](https://raw.githubusercontent.com/tianxinliao/chunks_extract/master/img/result_3.png)
 
 - 结果表示形式
 
-![](.\img\result_2.png)
+![](https://raw.githubusercontent.com/tianxinliao/chunks_extract/master/img/result_2.png)
