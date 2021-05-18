@@ -70,5 +70,5 @@ python label_count_05.py
 
 - 结果表示
 
-![](https://raw.githubusercontent.com/tianxinliao/chunks_extract/master/img/statistics_1.png)
+![](https://raw.githubusercontent.com/tianxinliao/chunks_extract/master/img/statistics.png)
 
