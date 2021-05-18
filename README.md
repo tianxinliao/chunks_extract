@@ -47,7 +47,7 @@ python chunk_label_03.py
 
 - 结果表示形式
 
-![](.\img\result_1.png)
+![](https://github.com/tianxinliao/chunks_extract/img/result_1.png)
 
 ****
 
