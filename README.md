@@ -61,3 +61,13 @@ python result_extract_label_04.py
 - 结果表示形式
 
 ![](https://raw.githubusercontent.com/tianxinliao/chunks_extract/master/img/result_2.png)
+
+## 统计
+
+```
+python label_count_05.py
+```
+
+- 结果表示
+
+![](https://raw.githubusercontent.com/tianxinliao/chunks_extract/master/img/result_4.png)
