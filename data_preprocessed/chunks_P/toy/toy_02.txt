@@ -1,0 +1,381 @@
+# sent_id = 0
+# text = 其实 津巴布韦像 很多 非洲 国家 一样 ， 还 保留 着 这样 的 一些 原始 的 部落 的 地方
+# attrs = id	text	upos	govern	relate
+0	其实	ADV	5	advmod
+1	津巴布韦像	PROPN	4	nmod
+2	很多	NUM	4	nummod
+3	非洲	PROPN	4	nmod
+4	国家	NOUN	5	nsubj
+5	一样	ADJ	8	advcl
+6	，	PUNCT	8	punct
+7	还	ADV	8	mark
+8	保留	VERB	-1	root
+9	着	PART	8	aux:aspect
+10	这样	PRON	17	det
+11	的	PART	10	case:dec
+12	一些	ADJ	17	amod
+13	原始	ADJ	17	amod
+14	的	PART	13	mark:relcl
+15	部落	NOUN	13	obj
+16	的	PART	13	mark:relcl
+17	地方	NOUN	8	obj
+
+# sent_id = 1
+# text = 因为 我 在 微博 看到 关于 他 的 新闻 ， 然后 有 好多 好多 他 去 扮演 女人 的 照片 ， 简直 可以 以 假乱真 。
+# attrs = id	text	upos	govern	relate
+0	因为	ADP	4	case
+1	我	PRON	4	nsubj
+2	在	VERB	4	advcl
+3	微博	NOUN	2	obj
+4	看到	VERB	-1	root
+5	关于	ADP	8	det
+6	他	PRON	8	det
+7	的	PART	6	case:dec
+8	新闻	NOUN	4	obj
+9	，	PUNCT	4	punct
+10	然后	ADV	11	advmod
+11	有	VERB	23	advcl
+12	好多	ADJ	13	advcl
+13	好多	ADJ	11	ccomp
+14	他	PRON	16	nsubj
+15	去	ADV	16	mark
+16	扮演	VERB	23	advcl
+17	女人	NOUN	19	nmod
+18	的	PART	17	case:dec
+19	照片	NOUN	16	obj
+20	，	PUNCT	23	punct
+21	简直	ADV	23	advmod
+22	可以	AUX	23	aux
+23	以	VERB	4	parataxis
+24	假乱真	VERB	23	xcomp
+25	。	PUNCT	4	punct
+
+# sent_id = 2
+# text = 我们 在 意大利 如果 你 去 剧场 ， 就 是 去 看 歌剧 或者 话剧 ， 千万 不 可以 穿 紫色 的 服装 。
+# attrs = id	text	upos	govern	relate
+0	我们	PRON	19	nsubj
+1	在	VERB	19	advcl
+2	意大利	PROPN	1	obj
+3	如果	ADP	5	case
+4	你	PRON	5	nsubj
+5	去	VERB	9	ccomp
+6	剧场	NOUN	5	obj
+7	，	PUNCT	19	punct
+8	就	ADV	9	mark
+9	是	VERB	19	advcl
+10	去	ADV	11	mark
+11	看	VERB	9	xcomp
+12	歌剧	NOUN	11	obj
+13	或者	CCONJ	14	cc
+14	话剧	NOUN	12	conj
+15	，	PUNCT	19	punct
+16	千万	ADV	19	advmod
+17	不	ADV	19	advmod
+18	可以	AUX	19	aux
+19	穿	VERB	-1	root
+20	紫色	NOUN	22	nmod
+21	的	PART	20	case:dec
+22	服装	NOUN	19	obj
+23	。	PUNCT	19	punct
+
+# sent_id = 3
+# text = 不 可以 的 。
+# attrs = id	text	upos	govern	relate
+0	不	ADV	1	advmod
+1	可以	AUX	-1	root
+2	的	PART	1	discourse
+3	。	PUNCT	1	punct
+
+# sent_id = 4
+# text = 在 法国 是 绿色 的 ， 在 西班牙 是 黄色 的 。
+# attrs = id	text	upos	govern	relate
+0	在	VERB	3	case
+1	法国	PROPN	0	obj
+2	是	AUX	3	cop
+3	绿色	NOUN	9	csubj
+4	的	PART	3	discourse
+5	，	PUNCT	9	punct
+6	在	VERB	9	acl
+7	西班牙	PROPN	6	obj
+8	是	AUX	9	cop
+9	黄色	NOUN	-1	root
+10	的	PART	9	discourse
+11	。	PUNCT	9	punct
+
+# sent_id = 5
+# text = 如果 你 在 中国 的话 ， 那 你 千万 不要 戴 一个 绿 帽子 。
+# attrs = id	text	upos	govern	relate
+0	如果	ADP	2	case
+1	你	PRON	2	nsubj
+2	在	VERB	10	ccomp
+3	中国	PROPN	2	obj
+4	的话	PART	2	discourse
+5	，	PUNCT	10	punct
+6	那	DET	7	det
+7	你	PRON	10	nsubj
+8	千万	ADV	10	advmod
+9	不要	AUX	10	aux
+10	戴	VERB	-1	root
+11	一个	ADJ	13	amod
+12	绿	NOUN	13	nmod
+13	帽子	NOUN	10	obj
+14	。	PUNCT	10	punct
+
+# sent_id = 6
+# text = 在 俄罗斯 不 能 送 空 的 钱包 。
+# attrs = id	text	upos	govern	relate
+0	在	VERB	4	advcl
+1	俄罗斯	PROPN	0	obj
+2	不	ADV	4	advmod
+3	能	AUX	4	aux
+4	送	VERB	-1	root
+5	空	NOUN	7	nmod
+6	的	PART	5	case:dec
+7	钱包	NOUN	4	obj
+8	。	PUNCT	4	punct
+
+# sent_id = 7
+# text = 你 比如 说 如果 送 钱 包 的 话 ， 里边 必须 得 放钱 。
+# attrs = id	text	upos	govern	relate
+0	你	PRON	1	nsubj
+1	比如	VERB	-1	root
+2	说	VERB	1	xcomp
+3	如果	ADP	4	case
+4	送	VERB	13	xcomp
+5	钱	NOUN	8	nmod
+6	包	PROPN	5	flat:name
+7	的	PART	5	case:dec
+8	话	NOUN	4	obj
+9	，	PUNCT	13	punct
+10	里边	NOUN	13	nsubj
+11	必须	AUX	13	aux
+12	得	PART	13	mark:comp
+13	放钱	VERB	1	ccomp
+14	。	PUNCT	1	punct
+
+# sent_id = 8
+# text = 就 比如 说 有 一些 人 是 把手 这样 放 着 ， 所以 握手 的 时候 我 的 手 在 上面 ， 地位 就 一目了然 。
+# attrs = id	text	upos	govern	relate
+0	就	ADV	1	mark
+1	比如	VERB	-1	root
+2	说	VERB	1	xcomp
+3	有	VERB	2	xcomp
+4	一些	ADJ	5	amod
+5	人	NOUN	6	nsubj
+6	是	VERB	3	ccomp
+7	把手	NOUN	9	nsubj
+8	这样	PRON	9	advmod
+9	放	VERB	6	ccomp
+10	着	PART	9	aux:aspect
+11	，	PUNCT	13	punct
+12	所以	ADV	13	mark
+13	握手	VERB	15	acl:relcl
+14	的	PART	13	mark:relcl
+15	时候	NOUN	19	nmod:tmod
+16	我	PRON	18	det
+17	的	PART	16	case:dec
+18	手	NOUN	19	nsubj
+19	在	VERB	24	advcl
+20	上面	NOUN	19	obj
+21	，	PUNCT	24	punct
+22	地位	NOUN	24	nsubj
+23	就	ADV	24	mark
+24	一目了然	ADJ	1	ccomp
+25	。	PUNCT	1	punct
+
+# sent_id = 9
+# text = 鬼 不 是 在 你 外面 ， 可是 在 你 心里 ， 你 不要 疑神疑鬼 。
+# attrs = id	text	upos	govern	relate
+0	鬼	NOUN	2	nsubj
+1	不	ADV	2	advmod
+2	是	VERB	-1	root
+3	在	VERB	2	xcomp
+4	你	PRON	5	det
+5	外面	NOUN	3	obj
+6	，	PUNCT	2	punct
+7	可是	ADV	14	mark
+8	在	ADP	10	case
+9	你	PRON	10	nmod
+10	心里	NOUN	14	obl
+11	，	PUNCT	14	punct
+12	你	PRON	14	nsubj
+13	不要	AUX	14	aux
+14	疑神疑鬼	VERB	2	parataxis
+15	。	PUNCT	2	punct
+
+# sent_id = 10
+# text = 我 想 了 两 天 两 夜 ， 然后 把 这个 礼物 ， 我 做 了 三 天 ， 最后 送给 他 。
+# attrs = id	text	upos	govern	relate
+0	我	PRON	1	nsubj
+1	想	VERB	20	advcl
+2	了	PART	1	aux:aspect
+3	两	NUM	4	nummod
+4	天	NOUN	6	clf
+5	两	NUM	6	nummod
+6	夜	NOUN	1	obj
+7	，	PUNCT	20	punct
+8	然后	ADV	20	advmod
+9	把	ADP	11	case
+10	这个	DET	11	det
+11	礼物	NOUN	20	obl:patient
+12	，	PUNCT	20	punct
+13	我	PRON	20	nsubj
+14	做	VERB	20	advcl
+15	了	PART	14	aux:aspect
+16	三	NUM	17	nummod
+17	天	NOUN	14	obj
+18	，	PUNCT	20	punct
+19	最后	NOUN	20	nmod:tmod
+20	送给	VERB	-1	root
+21	他	PRON	20	obj
+22	。	PUNCT	1	punct
+
+# sent_id = 11
+# text = 我 精心 挑选 的 这 款 礼物 ， 到底 有 没 有 诚意 ？
+# attrs = id	text	upos	govern	relate
+0	我	PRON	2	nsubj
+1	精心	ADV	2	advmod
+2	挑选	VERB	6	acl:relcl
+3	的	PART	2	mark:relcl
+4	这	DET	5	det
+5	款	NOUN	6	clf
+6	礼物	NOUN	9	nsubj
+7	，	PUNCT	9	punct
+8	到底	ADV	9	advmod
+9	有	VERB	-1	root
+10	没	ADV	11	advmod
+11	有	VERB	9	xcomp
+12	诚意	NOUN	11	obj
+13	？	PUNCT	9	punct
+
+# sent_id = 12
+# text = 我 经费 有限 啊 。
+# attrs = id	text	upos	govern	relate
+0	我	PRON	1	nmod
+1	经费	NOUN	2	nsubj
+2	有限	ADJ	-1	root
+3	啊	PART	2	discourse
+4	。	PUNCT	2	punct
+
+# sent_id = 13
+# text = 他 那个 朋友 条件 是 他 比较 胖 ， 所以 ， 就 是 为了 他 的 那个 健康 ， 让 他 减肥 ， 就 是 给 他 送 一些 蔬菜 啊 。
+# attrs = id	text	upos	govern	relate
+0	他	PRON	3	det
+1	那个	DET	3	det
+2	朋友	NOUN	3	nmod
+3	条件	NOUN	4	nsubj
+4	是	VERB	-1	root
+5	他	PRON	7	nsubj
+6	比较	ADV	7	advmod
+7	胖	ADJ	4	ccomp
+8	，	PUNCT	4	punct
+9	所以	ADV	12	mark
+10	，	PUNCT	24	punct
+11	就	ADV	12	mark
+12	是	VERB	24	advcl
+13	为了	ADP	17	case
+14	他	PRON	17	det
+15	的	PART	14	case:dec
+16	那个	DET	17	det
+17	健康	NOUN	19	obl
+18	，	PUNCT	24	punct
+19	让	VERB	24	advcl
+20	他	PRON	21	nsubj
+21	减肥	VERB	19	ccomp
+22	，	PUNCT	24	punct
+23	就	ADV	24	mark
+24	是	VERB	4	parataxis
+25	给	VERB	24	xcomp
+26	他	PRON	27	nsubj
+27	送	VERB	24	xcomp
+28	一些	ADJ	29	amod
+29	蔬菜	NOUN	27	obj
+30	啊	PART	24	discourse
+31	。	PUNCT	4	punct
+
+# sent_id = 14
+# text = 就 比如说 ， 我 举 个 例子 ， 我们 不 是 录 那个 春晚 的 那 一 期 吗 ？
+# attrs = id	text	upos	govern	relate
+0	就	ADV	1	mark
+1	比如说	VERB	-1	root
+2	，	PUNCT	1	punct
+3	我	PRON	4	nsubj
+4	举	VERB	1	ccomp
+5	个	NOUN	6	nmod
+6	例子	NOUN	4	obj
+7	，	PUNCT	1	punct
+8	我们	PRON	10	nsubj
+9	不	ADV	10	advmod
+10	是	VERB	1	ccomp
+11	录	VERB	10	xcomp
+12	那个	DET	13	det
+13	春晚	NOUN	17	nmod
+14	的	PART	13	case:dec
+15	那	DET	17	det
+16	一	NUM	17	nummod
+17	期	NOUN	11	obj
+18	吗	PART	10	discourse
+19	？	PUNCT	1	punct
+
+# sent_id = 15
+# text = 我 很 喜欢 这个 礼物 ， 谢谢 ！
+# attrs = id	text	upos	govern	relate
+0	我	PRON	2	nsubj
+1	很	ADV	2	advmod
+2	喜欢	VERB	-1	root
+3	这个	DET	4	det
+4	礼物	NOUN	2	obj
+5	，	PUNCT	6	punct
+6	谢谢	VERB	2	ccomp
+7	！	PUNCT	2	punct
+
+# sent_id = 16
+# text = 不 客气 啊 ！
+# attrs = id	text	upos	govern	relate
+0	不	ADV	1	advmod
+1	客气	NOUN	-1	root
+2	啊	PART	1	discourse
+3	！	PUNCT	1	punct
+
+# sent_id = 17
+# text = 你 看 ！
+# attrs = id	text	upos	govern	relate
+0	你	PRON	1	nsubj
+1	看	VERB	-1	root
+2	！	PUNCT	1	punct
+
+# sent_id = 18
+# text = 因为 在 泰国 人 的 概念 ， 我们 感觉 如果 你 当面 打开 ， 意思 是 你 太 小气 ， 你 太 盼望 拿 到 礼物 ， 你 没有 礼貌 。
+# attrs = id	text	upos	govern	relate
+0	因为	ADP	1	case
+1	在	VERB	8	xcomp
+2	泰国	PROPN	3	compound
+3	人	PART	5	nmod
+4	的	PART	3	case:dec
+5	概念	NOUN	1	obj
+6	，	PUNCT	8	punct
+7	我们	PRON	8	nsubj
+8	感觉	VERB	-1	root
+9	如果	ADP	12	case
+10	你	PRON	12	nsubj
+11	当面	ADV	12	advmod
+12	打开	VERB	8	ccomp
+13	，	PUNCT	8	punct
+14	意思	NOUN	18	nsubj
+15	是	AUX	18	cop
+16	你	PRON	18	nsubj
+17	太	ADV	18	advmod
+18	小气	NOUN	8	ccomp
+19	，	PUNCT	8	punct
+20	你	PRON	22	nsubj
+21	太	ADV	22	advmod
+22	盼望	VERB	8	parataxis
+23	拿	VERB	22	xcomp
+24	到	VERB	23	mark
+25	礼物	NOUN	23	obj
+26	，	PUNCT	28	punct
+27	你	PRON	28	nsubj
+28	没有	VERB	8	parataxis
+29	礼貌	NOUN	28	obj
+30	。	PUNCT	8	punct
+
