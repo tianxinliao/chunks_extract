@@ -1,5 +1,9 @@
 # chunks_extract
 
+- 提取句子中的语块
+
+![](https://raw.githubusercontent.com/tianxinliao/chunks_extract/master/img/chunks.jpg)
+
 ## 数据
 
 - 数据保存在`data`文件夹下
@@ -71,4 +75,6 @@ python label_count_05.py
 - 结果表示
 
 ![](https://raw.githubusercontent.com/tianxinliao/chunks_extract/master/img/statistics.png)
+
+
 
